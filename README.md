@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on JAVA!
 - 🌱 I’m currently learning Data structures and algorithms!
 - 👯 I’m looking to collaborate on Live projects!
-- 🤔 Loving Automation and Web scrapping.
+- 🤔 Loving Devlopment & Automation...
 - 📫 How to reach me: harshitp175@gmail.com  ||  https://www.linkedin.com/in/harshit-pandey-a7aa72194
 - 😄 Pronouns: harshu😋
 - ⚡ Fun fact: I don't like cheese/paneer;
